@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Hey, you ! Welcome to my profile ! ⚡️</h1>
+<h1 align="center">⚡️ Hey, Welcome to my profile ! ⚡️</h1>
 
 ![Untitled 1](https://cdn.discordapp.com/attachments/1147705575996657725/1182910707830890567/head.png)
 
@@ -24,6 +24,7 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 </p>
 
 ## 🚀 Statistics
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
@@ -39,10 +40,14 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 <br><br>
 <br><br>
 
-## 🚀 Contact Me
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
-</p>
-<p align="center">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/">
-</p>
+## 📧 Contact Me
+
+Discord : Soon available
+
+Telegram : XaynerSX (id : 6815777321)
+
+Session : 05bf23daec2ed9e3358951939e9d91fbe05c4de1381b2476ceb661c2608e9f3f4e
+
+Email : xaynersx@tutanota.com
+
+
