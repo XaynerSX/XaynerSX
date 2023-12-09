@@ -15,7 +15,7 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 - **Database:** Mysql, MariaDB, PostgreSQL, Redis
 
 
-<h3 align="center">🥇 Trophies</h3>
+## 🚀 Trophies
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
@@ -23,7 +23,7 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
     <img src="https://github-profile-trophy.vercel.app/?username=XaynerSX&theme=dracula&margin-w=10&margin-h=15&column=10">
 </p>
 
-<h3 align="center">📊 Stats</h3>
+## 🚀 Statistics
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
@@ -39,7 +39,7 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 <br><br>
 <br><br>
 
-<h3 align="center">📞 Contact</h3>
+## 🚀 Contact Me
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
