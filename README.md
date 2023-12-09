@@ -2,10 +2,10 @@
 
 ![Untitled 1](https://cdn.discordapp.com/attachments/1147705575996657725/1182916755258089542/x.png)
 
-## 🚀 About me
+## 👾 About ME
 I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love coding, contributing to open source projects, and exploring new technologies.
 
-## 🚀 Skills
+## 😈 Skills
 
 - **Operating System:** Qubes OS, Debian, Arch, BlackArch, Windows 10/11
 - **Languages:** Python, Javascript, Typescript, Php, Java, C, C#, C++, Go, Rust
@@ -15,19 +15,12 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 - **Database:** Mysql, MariaDB, PostgreSQL, Redis
 
 
-## 🚀 Trophies
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
-</p>
+## 🏆 Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=XaynerSX&theme=dracula&margin-w=10&margin-h=15&column=10">
 </p>
 
 ## 📈 Statistics
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
-</p>
 <div float="center">
     <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=XaynerSX&show_icons=false&theme=dark">
     <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=XaynerSX&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
