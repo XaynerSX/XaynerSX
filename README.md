@@ -12,7 +12,7 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 - **Frameworks:** Flask, Nodejs, Bun, Serenity, Teloxide
 - **Ide:** Jetbrains, Eclipse, Nano, Codium
 - **Tools:** Nmap, Burpsuite, Nessus, Hydra, John, Ffuf, Ida, Ghidra, Maltego, Sqlmap, Metasploit, ...
-- **Database:** Mysql, MariaDB, PostgreSQL, Redis
+- **Database:** MySQL, MariaDB, PostgreSQL, Redis
 
 
 ## 🏆 Trophies
