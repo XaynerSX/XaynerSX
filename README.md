@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Hey, Welcome to my profile ! ⚡️</h1>
+<h1 align="center"> Hey, Welcome to my profile ! </h1>
 
 ![Untitled 1](https://cdn.discordapp.com/attachments/1147705575996657725/1182910707830890567/head.png)
 
@@ -42,12 +42,12 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 
 ## 📩 Contact Me
 
-Discord : Soon available
+💻 Discord : Soon available
 
-Telegram : XaynerSX (id : 6815777321)
+💻 Telegram : XaynerSX (id : 6815777321)
 
-Session : 05bf23daec2ed9e3358951939e9d91fbe05c4de1381b2476ceb661c2608e9f3f4e
+🔒 Session : 05bf23daec2ed9e3358951939e9d91fbe05c4de1381b2476ceb661c2608e9f3f4e
 
-📧 - Email : xaynersx@tutanota.com
+📧 Email : xaynersx@tutanota.com
 
 
