@@ -3,7 +3,7 @@
 ![Untitled 1](https://cdn.discordapp.com/attachments/1147705575996657725/1182916755258089542/x.png)
 
 ## 👾 About ME
-I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love coding, contributing to open source projects, and exploring new technologies.
+I'm a passionate Developer, Pentester, Network and System administrator based in Sweden. I love coding, contributing to open source projects, and exploring new technologies.
 
 ## 😈 Skills
 
