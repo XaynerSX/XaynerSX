@@ -29,5 +29,5 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=XaynerSX&show_icons=false&theme=dark")
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=XaynerSX&show_icons=true&theme=dark")
 ![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=XaynerSX&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF)
