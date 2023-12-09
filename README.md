@@ -29,15 +29,10 @@ I'm a passionate Developer, Pentester, Net and Sys admin based in Sweden. I love
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <div float="center">
-    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=XaynerSX&show_icons=false&theme=dark">
-    <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=XaynerSX&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=XaynerSX&show_icons=false&theme=dark">
+    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=XaynerSX&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
 </div>
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 
 ## 📩 Contact Me
