@@ -8,7 +8,7 @@ I'm a passionate Developer, Pentester, Network and System administrator based in
 ## 😈 Skills
 
 - **Operating System:** Qubes OS, Debian, Arch, BlackArch, Windows 10/11
-- **Languages:** Python, Javascript, Typescript, Php, Java, C, C#, C++, Go, Rust
+- **Languages:** Python, Javascript, Typescript, Php, Java, C, C#, C++, Go, Rust, Asm
 - **Frameworks:** Flask, Nodejs, Bun, Serenity, Teloxide
 - **Ide:** Jetbrains, Eclipse, Nano, Codium
 - **Tools:** Nmap, Burpsuite, Nessus, Hydra, John, Ffuf, Ida, Ghidra, Maltego, Sqlmap, Metasploit, ...
