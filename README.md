@@ -32,7 +32,7 @@ I'm a passionate Developer, Pentester, Network and System administrator based in
 <br><br>
 ## 📩 Contact Me
 
-💻 Discord : Soon available
+💻 Discord : XaynerSXD
 
 💻 Telegram : XaynerSX (id : 6815777321)
 
